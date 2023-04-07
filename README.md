@@ -8,7 +8,7 @@ The website contains information on different marketing strategies with three li
 
 ## Screenshot of site after refactoring 
 
-![This is a screenshot of the site after being changed for accessibility and code cleaning](./Assets/images/Project1screenshot.png)
+![This is a screenshot of the site after being changed for accessibility and code cleaning](./Project1screenshot.png)
 
 ## Deployed site link
 
